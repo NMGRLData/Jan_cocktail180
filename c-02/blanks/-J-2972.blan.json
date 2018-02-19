@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.0,
+        "error": 0.00013844598773600446,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Preceding",
         "references": [
             {
                 "exclude": "ok",
@@ -226,12 +226,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0028202111097169616
+        "value": 0.0028189442609457206
     },
     "Ar37": {
-        "error": 0.0,
+        "error": 0.007955595040921267,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Preceding",
         "references": [
             {
                 "exclude": "ok",
@@ -455,12 +455,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.04125800139129894
+        "value": 0.041222215011170946
     },
     "Ar38": {
-        "error": 0.0,
+        "error": 0.0021120228666819956,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Preceding",
         "references": [
             {
                 "exclude": "ok",
@@ -684,12 +684,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.007650427612720907
+        "value": 0.007660909365592182
     },
     "Ar39": {
-        "error": 0.0,
+        "error": 0.005478929705941653,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Preceding",
         "references": [
             {
                 "exclude": "ok",
@@ -913,12 +913,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02307714112265577
+        "value": 0.023058515057670766
     },
     "Ar40": {
-        "error": 0.0,
+        "error": 0.00722916242335375,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Preceding",
         "references": [
             {
                 "exclude": "ok",
@@ -1142,7 +1142,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.2954289702643302
+        "value": 0.29556447506105843
     },
     "Ar41": {
         "error": 0.0123108239,
