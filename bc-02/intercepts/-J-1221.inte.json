@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0001722370523999342,
+        "error": 0.0001722370529903886,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -8,32 +8,44 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 0.0027476824796442206
+        "fn": 272,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.0027476824277926316
     },
     "Ar37": {
-        "error": 0.005715728318832086,
+        "error": 0.005715728317346428,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": -0.008784898961820295
+        "fit": "Linear",
+        "fn": 267,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": -0.008784899225587601
     },
     "Ar38": {
-        "error": 0.0029841253475911436,
+        "error": 0.0029841253542830922,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": -0.04307601019174144
+        "fit": "Linear",
+        "fn": 270,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": -0.04307600987703499
     },
     "Ar39": {
-        "error": 0.011514327239557916,
+        "error": 0.01151432719214167,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -41,10 +53,14 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 0.011478505441929477
+        "fn": 269,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.011478505548390649
     },
     "Ar40": {
-        "error": 0.008314695542175789,
+        "error": 0.008314695882047219,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -52,7 +68,11 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 0.28423519209810655
+        "fn": 267,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.28423518241831336
     },
     "Ar41": {
         "error": 0.014407094578442274,

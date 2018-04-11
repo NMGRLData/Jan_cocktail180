@@ -8,6 +8,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "reviewed": true,
         "value": 0.22234987493400193
     },
     "Ar37": {
@@ -19,6 +23,10 @@
             "std_devs": 2
         },
         "fit": "linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "reviewed": true,
         "value": 0.00032292525363439707
     },
     "Ar38": {
@@ -30,6 +38,10 @@
             "std_devs": 2
         },
         "fit": "linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "reviewed": true,
         "value": 0.9981383958480645
     },
     "Ar39": {
@@ -41,6 +53,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "reviewed": true,
         "value": 76.52823813294516
     },
     "Ar40": {
@@ -52,6 +68,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "reviewed": true,
         "value": 1014.2468820456979
     },
     "Ar41": {
