@@ -1,0 +1,212 @@
+{
+    "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
+    "aliquot": 3421,
+    "analysis_type": "cocktail",
+    "analyst_name": "",
+    "comment": "",
+    "commit": "39964f26dfc60d6a7e6807befb1c2b330de7ecea",
+    "conditionals": null,
+    "data_reduction_software": "Pychron18.2(DVC0.1)",
+    "detectors": {
+        "AX": {
+            "deflection": 190.0,
+            "gain": 0
+        },
+        "CDD": {
+            "deflection": 50.0,
+            "gain": 0
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 0
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 0
+        },
+        "L1": {
+            "deflection": 400.0,
+            "gain": 0
+        },
+        "L2": {
+            "deflection": 825.0,
+            "gain": 0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2018-05-01T12:20:56",
+                "title": "iServer Hum.",
+                "value": 18.0
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Hum. 2",
+                "pub_date": "2018-05-01T12:38:27",
+                "title": "Base Station Hum.",
+                "value": 19.5485610961914
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Humidity",
+                "pub_date": "2018-05-01T10:42:46",
+                "title": "",
+                "value": 13.0
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2018-05-01T12:04:34",
+                "title": "Building",
+                "value": 100.6
+            },
+            {
+                "device": "AirPressure2",
+                "name": "Pressure2",
+                "pub_date": "2018-05-01T12:04:34",
+                "title": "Lab",
+                "value": 88.5
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Pressure",
+                "pub_date": "2018-05-01T12:26:37",
+                "title": null,
+                "value": 856.6220703125
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger",
+                "name": "ColdFinger Temp.",
+                "pub_date": "2018-05-01T12:04:42",
+                "title": "Cold Finger",
+                "value": 73.0
+            },
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2018-05-01T12:26:00",
+                "title": "iServer Temp.",
+                "value": 71.6
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2018-05-01T12:38:16",
+                "title": "Coolant",
+                "value": 18.0
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 2",
+                "pub_date": "2018-05-01T12:38:02",
+                "title": "Base Station Temp.",
+                "value": 77.1762619018555
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 3",
+                "pub_date": "2018-05-01T12:28:05",
+                "title": "EastDiffuser01",
+                "value": 58.4366
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 4",
+                "pub_date": "2018-05-01T12:32:04",
+                "title": "EastReturn02",
+                "value": 69.0116
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 5",
+                "pub_date": "2018-05-01T11:34:51",
+                "title": "iServerCalibration03",
+                "value": 71.15
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 6",
+                "pub_date": "2018-05-01T11:54:16",
+                "title": "SouthWall04",
+                "value": 69.8
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 7",
+                "pub_date": "2018-05-01T12:34:59",
+                "title": "SouthWindow05",
+                "value": 76.55
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Temp",
+                "pub_date": "2018-05-01T12:04:20",
+                "title": "Outside Temp.",
+                "value": 70.0
+            }
+        ]
+    },
+    "experiment_queue_name": "CurrentExperiment",
+    "extraction": "jan_cocktail_x1.py",
+    "identifier": "c-02-J",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Cocktail-02",
+    "irradiation_level": "A",
+    "irradiation_position": 2,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "jan",
+    "material": "Gas",
+    "measurement": "jan_unknown120_60.py",
+    "post_equilibration": "jan_pump_extraction_line.py",
+    "post_measurement": "jan_pump_ms.py",
+    "principal_investigator": "NMGRL",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Jan_cocktail180",
+    "sample": "cocktail",
+    "source": {
+        "emission": 546.819,
+        "trap": 198.483
+    },
+    "spec_sha": "70bc472c0ec5b1873d0e234e12033b0b2641dbc5",
+    "timestamp": "2018-05-01T12:38:34.944709",
+    "tripped_conditional": null,
+    "username": "",
+    "uuid": "6f69fd5e-b0d1-4392-a318-49448b20e984",
+    "whiff_result": null
+}
