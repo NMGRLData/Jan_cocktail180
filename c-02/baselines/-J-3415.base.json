@@ -79,7 +79,7 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "fn": 60,
+        "fn": 58,
         "include_baseline_error": false,
         "n": 60,
         "reviewed": true,
