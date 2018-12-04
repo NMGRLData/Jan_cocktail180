@@ -45,15 +45,19 @@
         "value": 0.03911181195465804
     },
     "H2": {
-        "error": 0.01682348096961464,
+        "error": 0.016823481061311946,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "average",
-        "value": 0.0069526406622396775
+        "fit": "Average",
+        "fn": 43,
+        "include_baseline_error": false,
+        "n": 45,
+        "reviewed": true,
+        "value": 0.006952641501642532
     },
     "L1": {
         "error": 0.0027099311962956673,
