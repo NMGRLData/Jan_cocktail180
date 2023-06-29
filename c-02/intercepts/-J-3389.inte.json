@@ -1,78 +1,114 @@
 {
     "Ar36": {
-        "error": 0.0011052373922734605,
+        "error": 0.0006940438266775079,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 266,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 280,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [],
         "reviewed": true,
-        "value": 0.21559742843817317
+        "user_excluded": [],
+        "value": 0.21778335878778066
     },
     "Ar37": {
-        "error": 0.005544349418143709,
+        "error": 0.006127105840607989,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 267,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 278,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            209,
+            239
+        ],
         "reviewed": true,
-        "value": 0.00012917580831946652
+        "user_excluded": [],
+        "value": 0.00273402131515203
     },
     "Ar38": {
-        "error": 0.0030564262134329585,
+        "error": 0.003237534190152772,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Linear",
-        "fn": 273,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 276,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            9,
+            10,
+            11,
+            12
+        ],
         "reviewed": true,
-        "value": 0.9553471997621501
+        "user_excluded": [],
+        "value": 0.9579617188615333
     },
     "Ar39": {
-        "error": 0.018645700218472814,
+        "error": 0.011725671051492467,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 270,
-        "include_baseline_error": false,
+        "fit": "linear",
+        "fn": 277,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            0,
+            1,
+            169
+        ],
         "reviewed": true,
-        "value": 74.40070938782391
+        "user_excluded": [],
+        "value": 74.31527682571655
     },
     "Ar40": {
-        "error": 0.04848001175147456,
+        "error": 0.05449051434108689,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "fn": 266,
-        "include_baseline_error": false,
+        "fit": "parabolic",
+        "fn": 277,
+        "include_baseline_error": true,
         "n": 280,
+        "outlier_excluded": [
+            245,
+            93,
+            94
+        ],
         "reviewed": true,
-        "value": 986.5000982544607
+        "user_excluded": [],
+        "value": 986.4989310719986
     },
     "Ar41": {
         "error": 0.013734632141403058,
